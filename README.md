@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level Week da RocketSeat.
 
-[ 🔗 Clica aqui para acessar](file:///D:/Curso-NLW/index.html)
+[ 🔗 Clica aqui para acessar](https://marcioedu.github.io/Curso-NLW/)
 
 
 ## 🔧 Tecnologias
