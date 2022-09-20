@@ -1,4 +1,4 @@
-![preview]{./.Github/preview.png}
+![preview]{./.github/preview.png}
 
 # NLW eSports
 
@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level Week da RocketSeat.
 
-[ 🔗 Clica aqui para acessar](acess.ao.link)
+[ 🔗 Clica aqui para acessar](https://www.instagram.com/_marcio.eduardo/?hl=tr)
 
 
 ## 🔧 Tecnologias
